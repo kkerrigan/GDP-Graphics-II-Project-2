@@ -1,0 +1,3201 @@
+{
+    "sceneName": "sandbox.json",
+    "selectedEntity": 37,
+    "selectedLight": 5,
+    "camera": {
+        "position": {
+            "x": 183.48910522460938,
+            "y": 23.6308650970459,
+            "z": 90.79287719726563
+        },
+        "orientation": {
+            "x": 0.19225117564201356,
+            "y": -0.15074090659618379,
+            "z": -0.020801205188035966,
+            "w": 0.9702998399734497
+        },
+        "up": {
+            "x": -0.017593421041965486,
+            "y": 0.9252135753631592,
+            "z": 0.37935376167297366
+        }
+    },
+    "lights": [
+        {
+            "position": {
+                "x": -86.59989929199219,
+                "y": 135.49957275390626,
+                "z": 456.79864501953127
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.011101750656962395,
+                "quadratic": 2.8968469290013845e-10,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "param1": {
+                "lightType": 1.0,
+                "innerAngle": 25.0,
+                "outerAngle": 25.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -98.60011291503906,
+                "y": 90.39967346191406,
+                "z": 830.69873046875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.06746847927570343,
+                "quadratic": 0.0000036367293887451526,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -175.902587890625,
+                "y": 90.39967346191406,
+                "z": 830.7987060546875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.045860230922698978,
+                "quadratic": 0.00041773117845878005,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -65.20013427734375,
+                "y": 90.49987030029297,
+                "z": 523.79736328125
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 6.061297312953684e-7,
+                "quadratic": 0.0002074039657600224,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -198.59983825683595,
+                "y": 79.60003662109375,
+                "z": 523.79736328125
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 6.061297312953684e-7,
+                "quadratic": 0.0003960099711548537,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -44.400001525878909,
+                "y": 180.20001220703126,
+                "z": 698.197998046875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.022096656262874605,
+                "quadratic": 4.2951384116030058e-10,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -217.70016479492188,
+                "y": 178.39990234375,
+                "z": 698.197998046875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.02619011700153351,
+                "quadratic": 8.88703486074799e-42,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -449.40093994140627,
+                "y": 171.39947509765626,
+                "z": 712.594482421875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.01749419793486595,
+                "quadratic": 1.2614604472105384e-8,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": 143.2998809814453,
+                "y": 171.39947509765626,
+                "z": 748.196044921875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.0232168510556221,
+                "quadratic": 1.2614604472105384e-8,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -131.09996032714845,
+                "y": 555.0968017578125,
+                "z": 853.994873046875
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.01977410539984703,
+                "quadratic": 1.2614604472105384e-8,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -131.09996032714845,
+                "y": 390.8980712890625,
+                "z": 813.593017578125
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.019421344622969629,
+                "quadratic": 1.2614604472105384e-8,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": 101.20008087158203,
+                "y": 32.299983978271487,
+                "z": 168.50015258789063
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.019461138173937799,
+                "quadratic": 0.00012797080853488296,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": 225.6004638671875,
+                "y": 49.19990921020508,
+                "z": 534.5051879882813
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.016714299097657205,
+                "quadratic": 0.00004815476859221235,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -434.6981201171875,
+                "y": 12.099910736083985,
+                "z": 317.8064270019531
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.011904336512088776,
+                "quadratic": 0.00004815476859221235,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -614.994384765625,
+                "y": 29.899978637695314,
+                "z": 698.5084228515625
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 0.878000020980835,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.01842515543103218,
+                "quadratic": 0.00004815476859221235,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "param1": {
+                "lightType": 0.0,
+                "innerAngle": 0.0,
+                "outerAngle": 0.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        },
+        {
+            "position": {
+                "x": -270.0,
+                "y": 135.49957275390626,
+                "z": 475.0
+            },
+            "diffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "specular": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 0.0
+            },
+            "attenuation": {
+                "constant": 0.0,
+                "linear": 0.011101750656962395,
+                "quadratic": 2.8968469290013845e-10,
+                "cutoffDist": 0.0
+            },
+            "direction": {
+                "x": 0.0,
+                "y": -1.0,
+                "z": 0.0,
+                "w": 1.0
+            },
+            "param1": {
+                "lightType": 1.0,
+                "innerAngle": 25.0,
+                "outerAngle": 25.0,
+                "w": 0.0
+            },
+            "param2": {
+                "isOn": 1.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            }
+        }
+    ],
+    "entities": [
+        {
+            "id": 3,
+            "entityType": 1,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 183.48910522460938,
+                        "y": 23.6308650970459,
+                        "z": 90.79287719726563
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 5000.0,
+                        "y": 5000.0,
+                        "z": 5000.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "Sphere_320_faces_xyz_n_GARBAGE_uv_INVERTED_NORMALS.ply",
+                    "isWireframe": false,
+                    "isVisible": false,
+                    "color": {
+                        "r": 1.0,
+                        "g": 0.4117647111415863,
+                        "b": 0.7058823704719544,
+                        "a": 1.0
+                    },
+                    "textures": [],
+                    "specular": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "shinyness": 1.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "SkyBoxObject",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "entityType": 2,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "Peach_Castle_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "castle.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Castle",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "entityType": 3,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -79.89935302734375,
+                        "y": 30.60010528564453,
+                        "z": 478.9005126953125
+                    },
+                    "orientation": {
+                        "x": -0.000010020362424256746,
+                        "y": -89.98021697998047,
+                        "z": 1.1791435605701395e-9
+                    },
+                    "scale": {
+                        "x": 0.4047323167324066,
+                        "y": 0.4047323167324066,
+                        "z": 0.4047323167324066
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "mario_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "mario.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Mario",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "entityType": 12,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.884988784790039,
+                        "y": 1.884988784790039,
+                        "z": 1.884988784790039
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "GreenPipe_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "green_pipe.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Pipe",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "entityType": 4,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -58.59999084472656,
+                        "y": -22.00004768371582,
+                        "z": 33.29999542236328
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.3837818205356598,
+                        "y": 0.3837818205356598,
+                        "z": 0.3837818205356598
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "luigi_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "luigi.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Luigi",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "entityType": 6,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -96.201904296875,
+                        "y": 33.300140380859378,
+                        "z": 835.287353515625
+                    },
+                    "orientation": {
+                        "x": 180.0,
+                        "y": -0.000005008956122765085,
+                        "z": 180.0
+                    },
+                    "scale": {
+                        "x": 0.09045103937387467,
+                        "y": 0.09045103937387467,
+                        "z": 0.09045103937387467
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "toad_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.30000001192092898
+                    },
+                    "textures": [
+                        {
+                            "name": "Toad.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Toad1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "entityType": 6,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -172.5010528564453,
+                        "y": 33.300140380859378,
+                        "z": 829.5848388671875
+                    },
+                    "orientation": {
+                        "x": 180.0,
+                        "y": -0.000005008956122765085,
+                        "z": 180.0
+                    },
+                    "scale": {
+                        "x": 0.09045103937387467,
+                        "y": 0.09045103937387467,
+                        "z": 0.09045103937387467
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "toad_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.15000000596046449
+                    },
+                    "textures": [
+                        {
+                            "name": "Toad.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Toad2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -97.99989318847656,
+                        "y": 90.70004272460938,
+                        "z": 837.7014770507813
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 7.082400321960449,
+                        "y": 7.082400321960449,
+                        "z": 7.082400321960449
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -174.00079345703126,
+                        "y": 90.70004272460938,
+                        "z": 837.7014770507813
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 7.082400321960449,
+                        "y": 7.082400321960449,
+                        "z": 7.082400321960449
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "entityType": 7,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -271.000244140625,
+                        "y": 35.900001525878909,
+                        "z": 475.1014709472656
+                    },
+                    "orientation": {
+                        "x": -8.890987396240235,
+                        "y": 1.0672170702719086e-7,
+                        "z": 8.890987396240235
+                    },
+                    "scale": {
+                        "x": 0.017775189131498338,
+                        "y": 0.017775189131498338,
+                        "z": 0.017775189131498338
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "bowser_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "bowser.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Bowser",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 100,
+                    "position": {
+                        "x": -250.0,
+                        "y": 30.0,
+                        "z": 475.1014709472656
+                    },
+                    "minInitialVelocity": {
+                        "x": -1.0,
+                        "y": 1.0,
+                        "z": -1.0
+                    },
+                    "maxInitialVelocity": {
+                        "x": 1.0,
+                        "y": 1.5,
+                        "z": 1.0
+                    },
+                    "acceleration": {
+                        "x": 2.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "entityType": 5,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -134.60023498535157,
+                        "y": 53.30030822753906,
+                        "z": 589.7999877929688
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.15022481977939607,
+                        "y": 0.15022481977939607,
+                        "z": 0.15022481977939607
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "Peach_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "Peach.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Peach",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "entityType": 8,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -348.6983337402344,
+                        "y": 14.300323486328125,
+                        "z": 266.7993469238281
+                    },
+                    "orientation": {
+                        "x": 144.0768585205078,
+                        "y": 39.862483978271487,
+                        "z": 176.17115783691407
+                    },
+                    "scale": {
+                        "x": 0.11156682670116425,
+                        "y": 0.11156682670116425,
+                        "z": 0.11156682670116425
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "boo_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.20000000298023225
+                    },
+                    "textures": [
+                        {
+                            "name": "boo.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Boo1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "entityType": 9,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -505.4007873535156,
+                        "y": 3.0004725456237795,
+                        "z": 561.905029296875
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 30.000001907348634,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.7225379943847656,
+                        "y": 0.7225379943847656,
+                        "z": 0.7225379943847656
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "goomba_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "goomba.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Goomba1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "entityType": 10,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 280.9000549316406,
+                        "y": 0.0,
+                        "z": 281.1000671386719
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "yoshi_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "yoshi.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Yoshi",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "entityType": 14,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 471.0,
+                        "y": 16.899972915649415,
+                        "z": 712.5999755859375
+                    },
+                    "orientation": {
+                        "x": 180.0,
+                        "y": -50.99994659423828,
+                        "z": 180.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "pirahna_plant_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "pirahna_plant.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "PirahnaPlant1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "entityType": 15,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -133.99974060058595,
+                        "y": 73.69993591308594,
+                        "z": 584.907958984375
+                    },
+                    "orientation": {
+                        "x": -0.0000036291930882725866,
+                        "y": -85.93316650390625,
+                        "z": 0.0000036266897041059566
+                    },
+                    "scale": {
+                        "x": 4.7393479347229,
+                        "y": 4.7393479347229,
+                        "z": 4.7393479347229
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "star_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "star.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Star",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 226.0,
+                        "y": -6.099996566772461,
+                        "z": 553.5
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "torch.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch1",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": 226.0,
+                        "y": 23.90000343322754,
+                        "z": 553.5
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 226.29953002929688,
+                        "y": 18.996482849121095,
+                        "z": 552.9031372070313
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire1",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -419.9003601074219,
+                        "y": -52.199710845947269,
+                        "z": 348.30010986328127
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "metal.bmp",
+                            "strength": 0.15000000596046449
+                        },
+                        {
+                            "name": "rust.bmp",
+                            "strength": 0.8500000238418579
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch2",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": -419.9003601074219,
+                        "y": -22.199710845947267,
+                        "z": 348.30010986328127
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -419.9003601074219,
+                        "y": -24.09998893737793,
+                        "z": 348.30010986328127
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -627.9971923828125,
+                        "y": -8.89999771118164,
+                        "z": 697.60009765625
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "wood.bmp",
+                            "strength": 0.44999998807907107
+                        },
+                        {
+                            "name": "aged_wood.bmp",
+                            "strength": 0.6499999761581421
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch3",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": -627.9971923828125,
+                        "y": 21.10000228881836,
+                        "z": 697.60009765625
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -627.9971923828125,
+                        "y": 18.100032806396486,
+                        "z": 697.60009765625
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire3",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -66.39997863769531,
+                        "y": 32.10000991821289,
+                        "z": 538.69677734375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_metal.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch4",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": -66.39997863769531,
+                        "y": 62.10000991821289,
+                        "z": 538.69677734375
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -65.89998626708985,
+                        "y": 60.6995735168457,
+                        "z": 538.69677734375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire4",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -198.70022583007813,
+                        "y": 32.10000991821289,
+                        "z": 538.69677734375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_metal.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch5",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": -198.70022583007813,
+                        "y": 62.10000991821289,
+                        "z": 538.69677734375
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -198.20013427734376,
+                        "y": 60.6995735168457,
+                        "z": 538.69677734375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire5",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "entityType": 16,
+            "componentBits": 7,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 99.39967346191406,
+                        "y": -22.60004997253418,
+                        "z": 174.70272827148438
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 2,
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "torch_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "torch.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Torch6",
+                    "dontLight": false
+                },
+                {
+                    "componentType": 7,
+                    "minLifeTime": 5.0,
+                    "maxLifeTime": 10.0,
+                    "totalParticles": 25,
+                    "position": {
+                        "x": 99.39967346191406,
+                        "y": 7.39995002746582,
+                        "z": 174.70272827148438
+                    },
+                    "minInitialVelocity": {
+                        "x": -0.5,
+                        "y": 0.5,
+                        "z": -0.5
+                    },
+                    "maxInitialVelocity": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5
+                    },
+                    "acceleration": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "minInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "maxInitialOrientation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "minOrientationChange": {
+                        "x": -0.25,
+                        "y": -0.25,
+                        "z": -0.25
+                    },
+                    "maxOrientationChange": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "z": 0.25
+                    },
+                    "minInitialScale": 0.10000000149011612,
+                    "maxInitialScale": 0.15000000596046449,
+                    "minScaleChange": 0.0,
+                    "maxScaleChange": 0.10000000149011612,
+                    "deathFadeTime": 2.0,
+                    "minNewParticles": 2,
+                    "maxNewParticles": 5,
+                    "minTimeBetweenGen": 0.10000000149011612,
+                    "maxTimeBetweenGen": 0.5
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "entityType": 11,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 99.19998931884766,
+                        "y": 2.3999998569488527,
+                        "z": 176.50018310546876
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "fire_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "fire.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Fire6",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -51.80013656616211,
+                        "y": 173.99960327148438,
+                        "z": 736.708740234375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 9.620279312133789,
+                        "y": 9.620279312133789,
+                        "z": 9.620279312133789
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern3",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -213.6009521484375,
+                        "y": 173.99960327148438,
+                        "z": 736.708740234375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 9.620279312133789,
+                        "y": 9.620279312133789,
+                        "z": 9.620279312133789
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern4",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -441.5012512207031,
+                        "y": 167.19918823242188,
+                        "z": 770.6077880859375
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 9.620279312133789,
+                        "y": 9.620279312133789,
+                        "z": 9.620279312133789
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern5",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "entityType": 13,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 156.7996826171875,
+                        "y": 165.49908447265626,
+                        "z": 781.4088134765625
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 9.620279312133789,
+                        "y": 9.620279312133789,
+                        "z": 9.620279312133789
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "lantern_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "old_lantern.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Lantern6",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "entityType": 8,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 122.09996032714844
+                    },
+                    "orientation": {
+                        "x": 163.80003356933595,
+                        "y": -53.80559158325195,
+                        "z": 180.0
+                    },
+                    "scale": {
+                        "x": 0.10000000149011612,
+                        "y": 0.10000000149011612,
+                        "z": 0.10000000149011612
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "boo_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 0.10000000149011612
+                    },
+                    "textures": [
+                        {
+                            "name": "boo.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Boo2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "entityType": 14,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 2.499999761581421,
+                        "y": 47.800315856933597,
+                        "z": 368.9999084472656
+                    },
+                    "orientation": {
+                        "x": -5.800000190734863,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.7856783270835877,
+                        "y": 0.7856783270835877,
+                        "z": 0.7856783270835877
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "pirahna_plant_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "pirahna_plant.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "PirahnaPlant2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "entityType": 14,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -783.4011840820313,
+                        "y": 24.600017547607423,
+                        "z": 624.0
+                    },
+                    "orientation": {
+                        "x": -180.0,
+                        "y": 70.20706176757813,
+                        "z": -180.0
+                    },
+                    "scale": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "pirahna_plant_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "pirahna_plant.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "PirahnaPlant3",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "entityType": 9,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -543.7933959960938,
+                        "y": 0.40047314763069155,
+                        "z": 580.0006103515625
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 30.000001907348634,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.5862892866134644,
+                        "y": 0.5862892866134644,
+                        "z": 0.5862892866134644
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "goomba_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "goomba.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Goomba2",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "entityType": 9,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": -579.9845581054688,
+                        "y": 0.40047314763069155,
+                        "z": 591.5977783203125
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": 30.000001907348634,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 0.4476691782474518,
+                        "y": 0.4476691782474518,
+                        "z": 0.4476691782474518
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "goomba_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "goomba.bmp",
+                            "strength": 1.0
+                        }
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1000.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Goomba3",
+                    "dontLight": false
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "entityType": 19,
+            "componentBits": 5,
+            "components": [
+                {
+                    "componentType": 1,
+                    "position": {
+                        "x": 176.1999053955078,
+                        "y": -25.20000648498535,
+                        "z": 149.8994140625
+                    },
+                    "orientation": {
+                        "x": 0.0,
+                        "y": -0.0,
+                        "z": 0.0
+                    },
+                    "scale": {
+                        "x": 9.0,
+                        "y": 9.0,
+                        "z": 9.0
+                    }
+                },
+                {
+                    "componentType": 3,
+                    "meshName": "bun_res3_xyz_n_uv.ply",
+                    "isWireframe": false,
+                    "isVisible": true,
+                    "color": {
+                        "r": 0.0,
+                        "g": 0.0,
+                        "b": 0.0,
+                        "a": 1.0
+                    },
+                    "textures": [
+                        {
+                            "name": "wood.bmp",
+                            "strength": 0.6499999761581421
+                        },
+						{
+							"name": "sprial.bmp",
+							"strength": 0.45
+						}
+                    ],
+                    "specular": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0,
+                        "shinyness": 1.0
+                    },
+                    "useVertexColor": false,
+                    "friendlyName": "Bunny",
+                    "dontLight": false
+                }
+            ]
+        }
+    ],
+    "sounds": []
+}
